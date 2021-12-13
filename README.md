@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width>
         <link rel="stylesheet>
-        <title>Reto 2 - Sem1 </title>
+        <title>Reto</title>
     </head>
     <body>
         <header>
