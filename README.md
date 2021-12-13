@@ -8,12 +8,12 @@
     </head>
     <body>
         <header>
-            <h1>Blog 1 </h1>
+            <h1>Intento de blog</h1>
         </header>
         <main>
             <nav>
                 <header>
-                    <h2></h2>
+                    <h2>Sample text</h2>
                 </header>
                 <ul>
                     <a href="reto2_sem1.html">Directorio</a>
